@@ -1,3 +1,4 @@
+.DS_Store
 lambda/node_modules
 .ask/
 ask-resources.json
