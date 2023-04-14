@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/icon-512x512.png" />
+<p style="text-align: center">
+  <img src="assets/icon-512x512.png" height="200px" width="200px" />
   <br>
   <h1>Molly GPT</h1>
   <br>
